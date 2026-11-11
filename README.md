@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="Poster.png" width="100%" alt="Banner">
+  <img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/f50c9af5-5213-4b81-b31a-0d7b7f306570" />
+
 </p>
 
 
