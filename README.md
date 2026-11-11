@@ -118,3 +118,8 @@ If you like my work, consider giving a ⭐ to my repositories.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+## 🐍 My GitHub Contributions
+
+![Snake animation](https://raw.githubusercontent.com/BhaveshDave09/BhaveshDave09/output/github-contribution-grid-snake.svg)
+
