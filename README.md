@@ -8,7 +8,7 @@
 # Hey 👋 I'm Bhavesh Dave
 ### Full Stack Developer • Student • Building Modern Web Apps
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HTML+%2C+CSS+%2C+javaScript+%2C+Python+%2CJava+%2C+AndroidDevelopment;Learning+Something+New++Every+Day;Full+Stack+Developer;Building+Real+World+Project;Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HTML+%2C+CSS+%2C+javaScript+%2C+Python+%2C+Java+%2C+AndroidDevelopment;Learning+Something+New++Every+Day;Full+Stack+Developer;Building+Real+World+Projects;Welcome)](https://git.io/typing-svg)
 <br>
 ## 👨‍💻 About Me
 
